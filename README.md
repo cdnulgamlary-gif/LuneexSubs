@@ -1,1 +1,14 @@
-# LuneexSubs
+#profile-title: Lunex
+#!name=LunexSubs
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/tg_lunex
+#support-url: https://t.me/tg_lunex
+#subscription-userinfo: upload=0; download=0; total=0; expire=1893456000
+#announce: base64:4oaW77iPIPCfk6Ig0KLQtdC70LXQs9GA0LDQvCDQmtCw0L3QsNC7IOKGl++4jwrwn5K8IPCflJAgU2F0bHlrIFZQTiDimJHvuI8K8J+ThSA1IFRNVCDigJQgMSBnw7xubGlrCvCfk4UgMTIgVE1UIOKAlCAzIGfDvG5saWsK8J+ThSAyMCBUTVQg4oCUIGhlcGRlbGlrCvCfk4UgNzAgVE1UIOKAlCBhw71seWsK4pyoIMOHYWx0IOKAoiBIb3dwc3V6IOKAoiBEdXJudWtseQrwn5GkIPCfk6kgVEVMRUdSQU06IEBNYXNha29mZg==
+
+vless://f8e6ee9e-88c5-4953-8c98-2d3ac5c08ca7@8.8.8.8:80?security=none&type=xhttp&headerType=&path=%2FLunex&host=&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#%F0%9F%87%AA%F0%9F%87%BAAdmin%3A%20%5B%E2%88%9E%5D
+vless://f8e6ee9e-88c5-4953-8c98-2d3ac5c08ca7@151.101.3.6:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=babojan.store&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=2a02%3A26f0%3A5d00%3A138f%3A%3A2a1&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%F0%9D%96%A6%F0%9D%96%BE%F0%9D%97%8B%F0%9D%97%86%F0%9D%96%BA%F0%9D%97%87%F0%9D%97%92
+vless://f8e6ee9e-88c5-4953-8c98-2d3ac5c08ca7@206.238.237.100:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.hdfilmcehennemitr.ru&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=lunex.hdfilmcehennemitr.ru&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%F0%9D%96%A6%F0%9D%96%BE%F0%9D%97%8B%F0%9D%97%86%F0%9D%96%BA%F0%9D%97%87%F0%9D%97%92-2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOaTV6aTljUHk1VWdBTVR2Vk05SXNn@2.26.101.147:220#%F0%9F%87%B3%F0%9F%87%B1%F0%9D%96%AD%F0%9D%96%BE%F0%9D%97%8D%F0%9D%97%81%F0%9D%96%BE%F0%9D%97%8B%F0%9D%97%85%F0%9D%96%BA%F0%9D%97%87%F0%9D%96%BD%F0%9D%97%8C-%F0%9D%96%B2%F0%9D%96%B2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOaTV6aTljUHk1VWdBTVR2Vk05SXNn@2.26.101.147:220#%F0%9F%87%BA%F0%9F%87%B8%F0%9D%96%B4%F0%9D%97%87%F0%9D%97%82%F0%9D%97%8D%F0%9D%96%BE%F0%9D%96%BD%20%F0%9D%96%B2%F0%9D%97%8D%F0%9D%96%BA%F0%9D%97%8D%F0%9D%96%BE%F0%9D%97%8C-%F0%9D%96%B2%F0%9D%96%B2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOaTV6aTljUHk1VWdBTVR2Vk05SXNn@159.194.196.228:1080#%F0%9F%87%B7%F0%9F%87%BA%F0%9D%96%B1%F0%9D%97%8E%F0%9D%97%8C%F0%9D%97%8C%F0%9D%97%82%F0%9D%96%BA-%F0%9D%96%B2%F0%9D%97%81%F0%9D%96%BA%F0%9D%96%BD%F0%9D%97%88%F0%9D%97%90%F0%9D%96%B2%F0%9D%97%88%F0%9D%96%BC%F0%9D%97%84%F0%9D%97%8C
